@@ -1,2 +1,2 @@
-# hyunheelee.github.io
+# lee-hyunhee.github.io
 This document is my curriculum vitae. :)
