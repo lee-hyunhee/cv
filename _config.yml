@@ -1,6 +1,6 @@
 title: Hyunhee Lee
 url: "https://lee-hyunhee.github.io/cv/"
-baseurl: "/researcher"
+baseurl: "/cv"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
