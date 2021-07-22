@@ -1,5 +1,5 @@
 title: Hyunhee Lee
-url: "https://lee-hyunhee.github.io/cv/"
+url: "https://lee-hyunhee.github.io"
 baseurl: "/cv"
 
 markdown: kramdown
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://lee-hyunhee.github.io/cv/"
+footer_text: "Last updated: July 2021"
 
 sass:
     style: compressed
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/cv/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
