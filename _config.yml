@@ -1,6 +1,6 @@
-title: Hyunhee Lee
+title: Hyunhee Lee 
 url: "https://lee-hyunhee.github.io"
-baseurl: "/cv"
+baseurl: "/cv/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -18,7 +18,7 @@ sass:
 nav:
  - name: "About Me"
    link: "/cv/"
- - name: "CV"
-   link: "resume.pdf"
+# - name: "CV"
+#   link: "resume.pdf"
  - name: "Contact"
    link: "contact"

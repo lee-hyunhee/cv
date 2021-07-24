@@ -5,22 +5,20 @@ is_contact: true
 
 * Email: [webpainter@korea.ac.kr](mailto:webpainter@korea.ac.kr)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [(+82)10-3599-2468](tel:+82-1035992468)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Aegineung #311, Korea University, 145, Anam-ro, Seoungbuk-gu
 >
-> London
+> Seoul
 >
-> United Kingdom
+> South Korea
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+[Google+](#)
