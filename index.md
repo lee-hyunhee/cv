@@ -6,15 +6,23 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I received my Ph.D. degree in computer science and engineering from Korea University, Seoul, South Korea, in 2021. I have worked as a software developer for more than 10 years in many companies including SK affiliates and participated in many projects. I am a full-stack developer and researcher with extensive development experiences in machine learning, artificial intelligence, web, mobile, big data, data analysis, growth hacking, graphic design, etc. If you would like to know more about me, contact me, and I will send you the full version of my Curriculum Vitae (CV). The following is a brief summary of my CV. 
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus.
+Generative adversarial networks, multimodal learning, text-to-image synthesis, natural language processing, computer vision, machine learning, medical imaging, pattern recognition, and speech recognition.
 
-## Publications
+## Education
+Ph.D. in Computer Science and Engineering, Korea University, KR
+Mar.2019–Aug.2021
+Advisor: Heuiseok Lim, Professor, Department of Computer Science and Engineering, Korea University, KR
+
+M.S. in Big Data Convergence, Korea University, KR
+Mar.2016–Aug.2018
+Summa Cum Laude
+Advisor: Heuiseok Lim, Professor, Department of Computer Science and Engineering, Korea University, KR
+
+## Recent Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
