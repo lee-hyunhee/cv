@@ -55,7 +55,7 @@ Deep learning / Machine learning | generative adversarial networks, multimodal l
 Big data / Statistics | hadoop, storm, spark, R, spss (IBM)
 Programming Language (including Frameworks) | java, jsp, ejb, struts, spring, mybatis, jquery, ajax, json, android, as3.0(flex4), adobe air, html5/css3, python, R, php, Django, and flask
 Database (RDBMS, Nosql) | oracle, pl-sql, mongoDB, redis, elastic search, mariaDB, and mysql
-Server | window server, linux, FMS(AMS- adobe media streaming server), wowza streaming engine, apache web server, and Nginx
+Server | window server, linux, FMS(AMS-adobe media streaming server), wowza streaming engine, apache web server, and Nginx
 Architecture Modelling | ERD, UML, business process, sequence diagram, and use case
 Software Configuration Management | git, svn, and cvs
 Development tools | eclipse, spring STS, android studio, flash builder, visual paradigm, ERWin, orange, toad, kibana sense, RStudio, weka, pycharm, anaconda, jupyter notebook(IPython), and LaTex
@@ -66,7 +66,7 @@ Data Analytics | google analytics and growth hacking
 
 * Korean (Native)
 * English (English teacher experience)
-* German (Admitted to the Univ. of Bremen)
+* German (Admitted to the University of Bremen)
 
 ## Qualification Certificates
 
