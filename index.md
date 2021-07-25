@@ -65,7 +65,7 @@ Data Analytics | google analytics and growth hacking
 ## Language Competencies 
 
 * Korean (Native)
-* English (English teacher experience)
+* English (English Teacher Experience)
 * German (Admitted to the University of Bremen)
 
 ## Qualification Certificates
@@ -78,7 +78,7 @@ National Technical Qualification | Craftsman Web Design | Human Resources Develo
 National Technical Qualification | Craftsman Computer Graphics Operation | Human Resources Development Service of Korea
 National Technical Qualification | Industrial Engineer Office Automation | Human Resources Development Service of Korea
 National Qualification | Teacher’s Certificate | The Minister of Education, Korea
-Language Qualification | Deutsche Sprachprüfung für den Hochschulzugang | Bremen University, German
+Language Qualification | Deutsche Sprachprüfung für den Hochschulzugang | Bremen University, Germany
 
 
 ## References
