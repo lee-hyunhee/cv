@@ -30,11 +30,15 @@ Generative adversarial networks, multimodal learning, text-to-image synthesis, n
 ## Recent Publications
 ### International Journal (SCI /SCIE)
 
-1. Visual thinking of neural networks: Interactive text to image synthesis <br>
+1. Enhancing Korean Named Entity Recognition With Linguistic Tokenization Strategies <br>
+Gyeongmin Kim, Junyoung Son, Jinsung Kim, **Hyunhee Lee**, and Heuiseok Lim <br>
+IEEE Access, vol. 9, pp. 151814-151823, 2021 **[[PDF]](https://ieeexplore.ieee.org/document/9610031)**
+
+2. Visual thinking of neural networks: Interactive text to image synthesis <br>
 **Hyunhee Lee**, Gyeongmin Kim, Yuna Hur and Heuiseok Lim <br>
 IEEE Access, vol. 9, pp. 64510–64523, 2021 **[[PDF]](https://ieeexplore.ieee.org/document/9410550)**
 
-2. Study on optimal generative network for synthesizing brain tumor-segmented mr images <br>
+3. Study on optimal generative network for synthesizing brain tumor-segmented mr images <br>
 **Hyunhee Lee**, Jaechoon Jo, and Heuiseok Lim <br>
 Mathematical Problems in Engineering, vol. 2020, p. 8273173, 2020 **[[PDF]](https://www.hindawi.com/journals/mpe/2020/8273173/)**
 
