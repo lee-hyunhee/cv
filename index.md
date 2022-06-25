@@ -6,13 +6,13 @@ layout: default
 
 <img class="profile-picture" src="me7.jpg">
 
-I received the Ph.D. degree in computer science and engineering from Korea University, Seoul, South Korea, in 2021. I have worked as a software developer for more than 10 years in many companies including SK affiliates and participated in many projects. Currently, I am researching edge AI, model quantization, object detection, object tracking, face recognition, human pose estimation, and virtual human generation at Motov Lab. I am a full-stack developer and researcher with extensive development experiences in machine learning, artificial intelligence, web, mobile, big data, data analysis, growth hacking, graphic design, etc. 
+I received the Ph.D. degree in computer science and engineering from Korea University, Seoul, South Korea, in 2021. I have worked as a software developer for more than 10 years in many companies including SK affiliates and participated in many projects. Currently, I am researching edge AI, model quantization, object detection, object tracking, face recognition, human pose estimation, and virtual human generation at Motov Lab. Besides, I have been appointed to be a expert member of Police Lab by KIPoT (Korea Institute of Police Technology) and am currently working as an advisor, providing technical advice on Artificial Intelligence. I am a full-stack developer and researcher with extensive development experiences in machine learning, artificial intelligence, web, mobile, big data, data analysis, growth hacking, graphic design, etc. 
 
 If you would like to know more about me, contact me, and I will send you the full version of my Curriculum Vitae (CV). The following is a brief summary of my CV. 
 
 ## Research Interest
 
-Generative Adversarial Networks, Multimodal Learning, Text-to-Image Synthesis, Natural Language Processing, Computer Vision, Machine Learning, Medical Imaging, Pattern Recognition, Speech Recognition, Object Detection, Object Tracking, Face Recognition, Pose Estimation, Virtual Human, Model Quantization, and Edge AI.
+Generative Adversarial Networks, Multimodal Learning, Text-to-Image Synthesis, Natural Language Processing, Computer Vision, Machine Learning, Medical Imaging, Pattern Recognition, Speech Recognition, Object Detection, Object Tracking, Face Recognition, Human Pose Estimation, Virtual Human, Model Quantization, and Edge AI.
 
 ## Education
 
