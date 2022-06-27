@@ -59,7 +59,7 @@ Deep learning / Machine learning | Generative Adversarial Networks, Multimodal L
 Big data / Statistics | Hadoop, Storm, Spark, R, Spss (IBM).
 Programming Language (including Frameworks) | Java, Jsp, Ejb, Struts, Spring, Mybatis, Jquery, Ajax, React, Ruby on Rails, TypeScript, AngluarJS, D3.js, Node.js, Vue.js, Json, Android, As3.0 (Flex4), Adobe Air, Html5/Css3, Python, R, Php, Django, Flask, and Nvidia Jetson Edge AI Platform.
 Database (RDBMS, Nosql) | Oracle, Pl-sql, MongoDB, Redis, Elastic Search, MariaDB, and Mysql.
-Server (including Server Virtualization) | Window Server, Linux, FMS, AMS (Adobe Media Streaming Server), Wowza Streaming Engine, Apache Web Server, Nginx, VMWare, VirtualBox, and Docker.
+Server (including Virtualization) | Window Server, Linux, FMS, AMS (Adobe Media Streaming Server), Wowza Streaming Engine, Apache Web Server, Nginx, VMWare, VirtualBox, and Docker.
 Architecture Modelling | ERD, UML, Business Process, Sequence Diagram, and Use Case.
 Software Configuration Management | Git, SVN, and CVS.
 Development tools | Eclipse, Spring STS, Android Studio, Flash Builder, Visual Paradigm, ERWin, Orange, Toad, Kibana Sense, RStudio, Weka, Pycharm, Anaconda, Jupyter Notebook (IPython), LaTex, and Label Studio.
