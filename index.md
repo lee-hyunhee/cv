@@ -57,9 +57,9 @@ Field | Details
 -----|-------
 Deep learning / Machine learning | Generative Adversarial Networks, Multimodal Learning, Text-to-Image Synthesis, Natural Language Processing, Computer Vision, Machine Learning, Medical Imaging, Pattern Recognition, Speech Recognition, Object Detection, Object Tracking, Face Recognition, Human Pose Estimation, Virtual Human, Model Quantization, and Edge AI.
 Big data / Statistics | Hadoop, Storm, Spark, R, Spss (IBM).
-Programming Language (including Frameworks) | Java, Jsp, Ejb, Struts, Spring, Mybatis, Jquery, Ajax, React, Ruby on Rails, TypeScript, Json, Android, As3.0(Flex4), Adobe Air, Html5/Css3, Python, R, Php, Django, Flask, and Nvidia Jetson Edge AI Platform.
+Programming Language (including Frameworks) | Java, Jsp, Ejb, Struts, Spring, Mybatis, Jquery, Ajax, React, Ruby on Rails, TypeScript, AngluarJS, D3.js, Node.js, Vue.js, Json, Android, As3.0 (Flex4), Adobe Air, Html5/Css3, Python, R, Php, Django, Flask, and Nvidia Jetson Edge AI Platform.
 Database (RDBMS, Nosql) | Oracle, Pl-sql, MongoDB, Redis, Elastic Search, MariaDB, and Mysql.
-Server | Window Server, Linux, FMS, AMS (Adobe Media Streaming Server), Wowza Streaming Engine, Apache Web Server, and Nginx.
+Server (including Server Virtualization) | Window Server, Linux, FMS, AMS (Adobe Media Streaming Server), Wowza Streaming Engine, Apache Web Server, Nginx, VMWare, VirtualBox, and Docker.
 Architecture Modelling | ERD, UML, Business Process, Sequence Diagram, and Use Case.
 Software Configuration Management | Git, SVN, and CVS.
 Development tools | Eclipse, Spring STS, Android Studio, Flash Builder, Visual Paradigm, ERWin, Orange, Toad, Kibana Sense, RStudio, Weka, Pycharm, Anaconda, Jupyter Notebook (IPython), LaTex, and Label Studio.
